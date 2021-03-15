@@ -11,7 +11,13 @@ A potential investor in your Surf Shop/Ice Cream store wants more information ab
  
 ## Results (Three Key Differences Between June and December)
 
-![June_Temps](june_temp_stats.png) ![December_Temps](december_temp_stats.png)
+![June_Temps](june_temp_stats.png) 
+![December_Temps](december_temp_stats.png)
+
+Based on the charts above.  We can see that:
+* The minimum temperature can be significantly colder in December than in June (56 degrees versus 64 degrees) while the max temperatures are only 2 degrees off
+* Nearly 200 more temperature counts were taken in December versus in June
+* The average temperature are off by more than 3 degrees.
 
 #### Summary PyBer Data by City Type
 ![Pyber_summery_DataFrame](analysis/PyBer_summary_analysis.png)
