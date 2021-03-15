@@ -9,7 +9,9 @@ A potential investor in your Surf Shop/Ice Cream store wants more information ab
 * Determine the Summary Statistics for December
 * Submit a written report for the statistical analysis
  
-## Results (Differences in Ride-sharing Data Among the Different City Types)
+## Results (Three Key Differences Between June and December)
+
+![June_Temps](june_temp_stats.png) ![December_Temps](december_temp_stats.png)
 
 #### Summary PyBer Data by City Type
 ![Pyber_summery_DataFrame](analysis/PyBer_summary_analysis.png)
